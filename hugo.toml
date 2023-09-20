@@ -1,0 +1,16 @@
+baseURL = "https://mrsmsn.github.io/"
+languageCode = "ja"
+title = "モッシュのLog"
+theme = "PaperMod"
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = 20
+  identifier = "about"
+  url = "/about/"
